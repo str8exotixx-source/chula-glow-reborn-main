@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://https://chula-glow-reborn-main.pages.dev//sitemap.xml
